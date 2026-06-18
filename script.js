@@ -1,2 +1,2 @@
-# Bolão Brasil x Haiti
+# Bolão Brasil
 Versão inicial.
